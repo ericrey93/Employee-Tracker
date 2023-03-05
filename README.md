@@ -4,7 +4,7 @@
 This Employee tracker is great to help you keep track of all employees, their current roles, salary pays, and any updates needed to the employee's roles! This homework main usages or node, inquirer and SQL.
 
 ## Demo
-
+[Link to Video](https://drive.google.com/file/d/1WIwGPdUaotA4d5Tre3yFIxQXXTtEtWlO/view)
 
 ## What to Install
  - inquirer
